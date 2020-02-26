@@ -13,3 +13,8 @@ The application interacts with a text file called "users.txt" to store user's in
 for a bank. Whenever the first account gets created in the system, the file "users.txt" will be created. After one account exists, every time that the program is executed, information from "users.txt" is retrieved and loaded into the program.
 
 The underlying data structure used to store bank users in the banking system is a STL Map.
+
+## NOTE: 
+## *If running this program of MacOs, you will need to run this program using the Xcode IDE and in the project settings, the Derived Data data must be set to the Banking-System project directory, otherwise, THIS PROGRAM WILL NOT COMPILE.
+## *If running this program in any other IDE, make sure that the Derived Data is set to the Banking-System project directory, otherwise, THIS PROGRAM WILL NOT COMPILE.
+## THIS IS NECESSARY IN ORDER FOR THE "users.txt" FILE TO BE CREATED IN THE PROPER DIRECTORY.
