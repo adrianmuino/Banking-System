@@ -15,6 +15,6 @@ for a bank. Whenever the first account gets created in the system, the file "use
 The underlying data structure used to store bank users in the banking system is a STL Map.
 
 ## NOTE: 
-## *If running this program of MacOs, you will need to run this program using the Xcode IDE and in the project settings, the Derived Data data must be set to the Banking-System project directory, otherwise, THIS PROGRAM WILL NOT COMPILE.
-## *If running this program in any other IDE, make sure that the Derived Data is set to the Banking-System project directory, otherwise, THIS PROGRAM WILL NOT COMPILE.
+*If running this program of MacOs, you will need to run this program using the Xcode IDE and in the project settings, the Derived Data data must be set to the Banking-System project directory, otherwise, THIS PROGRAM WILL NOT COMPILE.
+*If running this program in any other IDE, make sure that the Derived Data is set to the Banking-System project directory, otherwise, THIS PROGRAM WILL NOT COMPILE.
 ## THIS IS NECESSARY IN ORDER FOR THE "users.txt" FILE TO BE CREATED IN THE PROPER DIRECTORY.
