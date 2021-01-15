@@ -14,6 +14,6 @@ for a bank. Whenever the first account gets created in the system, the file "use
 
 The underlying data structure used to store bank users in the banking system is a STL Map.
 
-## NOTE: 
+### NOTE: 
 * If running this application through the Terminal/Command-Line Prompt, the only requirement is to have a C++ compiler that supports modern C++17. The latest version of the GNU g++ compiler works seamlessly with this application.
 * If running this program on an IDE, you must specify that the Derived Data of the project will be saved inside of the Banking-System project directory. This can be done by changing the project settings. THIS IS NECESSARY IN ORDER FOR THE "users.txt" FILE TO BE CREATED IN THE PROPER DIRECTORY. Also, the Scheme of the project must specify that the working directory is the Banking-System project directory. THIS IS NECESSARY TO ENSURE THAT THE PROGRAM WILL COMPILE AND RUN PROPERLY.
